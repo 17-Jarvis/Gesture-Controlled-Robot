@@ -153,11 +153,11 @@ Documentation: Comprehensive technical documentation and user guides
 📈 Project Impact
 This project demonstrates the practical application of computer vision and robotics technologies in creating intuitive human-machine interfaces. It showcases the ability to bridge the gap between human gestures and robotic control, making advanced robotics more accessible and user-friendly.
 📞 Contact & Collaboration
-Developed by [Your Name] - Mechatronics Engineering Student, Tamil Nadu
+Developed by ABISH M- Mechatronics Engineering Student, Tamil Nadu
 
-Email: your.email@example.com
-LinkedIn: [Your LinkedIn Profile]
-GitHub: [Your GitHub Profile]
+Email: abish17ai@gmail.com
+LinkedIn: M.ABISH
+GitHub: 17-Jarvis
 
 
 This project represents the integration of computer vision, robotics, and human-computer interaction technologies, demonstrating practical skills in developing intelligent robotic systems.
